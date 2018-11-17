@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Log in</string>
+    <string name="new_app_name">Registration</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_register">Sign up</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="show_password">Show Password</string>
+
+    <string name="mid_level_supplier">Mid-Level-Supplier</string>
+    <string name="everyday_consumer">Everyday Consumer</string>
+    <string name="Storename">Store Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+
+
+    <string name="ChooseProvince">Choose a Province</string>
+    <string name="ChooseCity">Choose a City</string>
+
+    <string-array name="provinces">
+        <item>Choose a province</item>
+        <item>Eastern Cape</item>
+        <item>Free State</item>
+        <item>Gauteng</item>
+        <item>KwaZulu-Natal</item>
+        <item>Limpopo</item>
+        <item>Mpumalanga</item>
+        <item>North West</item>
+        <item>Northern Cape</item>
+        <item>Western Cape</item>
+    </string-array>
+
+    <string-array name="free_state">
+        <item>Choose a city</item>
+        <item>Arlington</item>
+        <item>Bethlehem</item>
+        <item>Clarens</item>
+        <item>Clocolan</item>
+        <item>Cornelia</item>
+        <item>Excelsior</item>
+        <item>Ficksburg</item>
+        <item>Fouriesburg</item>
+        <item>Harrismith</item>
+    </string-array>
+
+    <string-array name="Eastern_Cape">
+        <item>Choose a city</item>
+        <item>Adelaide</item>
+        <item>Bethlehem</item>
+        <item>Aliwal</item>
+        <item>Balfour</item>
+        <item>Berlin</item>
+        <item>Bhisho</item>
+        <item>Braunschweig</item>
+        <item>Burgersdorp</item>
+    </string-array>
+
+    <string-array name="Guateng">
+        <item>Choose a city</item>
+        <item>Alexandra</item>
+        <item>Germiston</item>
+        <item>Johannesburg</item>
+        <item>Midrand</item>
+        <item>Pretoria</item>
+        <item>Roodepoort</item>
+        <item>Tembisa</item>
+        <item>Soweto</item>
+    </string-array>
+
+    <string-array name="KwaZulu_Natal">
+        <item>Choose a city</item>
+        <item>Amanzimtoti</item>
+        <item>Cato Ridge</item>
+        <item>Doonside</item>
+        <item>Drummond</item>
+        <item>Durban</item>
+        <item>ekuPhakameni</item>
+        <item>Inanda</item>
+        <item>KwaMashu</item>
+    </string-array>
+
+    <string-array name="Limpopo">
+        <item>Choose a city</item>
+        <item>Ba-Phalaborwa</item>
+        <item>Bela-Bela</item>
+        <item>Bochum</item>
+        <item>Bosbokrand</item>
+        <item>Dendron</item>
+        <item>Gravelotte</item>
+        <item>Hoedspruit</item>
+        <item>Klaserie</item>
+    </string-array>
+
+    <string-array name="Mpumalanga">
+        <item>Choose a city</item>
+        <item>Acornhoek</item>
+        <item>Hazyview</item>
+        <item>Mbombela</item>
+        <item>Middelburg</item>
+        <item>Moddergat</item>
+        <item>Piet Retief</item>
+        <item>Sabie</item>
+        <item>Secunda</item>
+    </string-array>
+
+    <string-array name="North_West">
+        <item>Choose a city</item>
+        <item>Amalia</item>
+        <item>Bray</item>
+        <item>Morokweng</item>
+        <item>Motlhabeng</item>
+        <item>Pampierstad</item>
+        <item>Reivilo</item>
+        <item>Setlagole</item>
+        <item>Stella</item>
+    </string-array>
+
+    <string-array name="Northern_Cape">
+        <item>Choose a city</item>
+        <item>Barkly</item>
+        <item>Campbell</item>
+        <item>Delportshoop</item>
+        <item>Douglas</item>
+        <item>Griquatown</item>
+        <item>Hartswater</item>
+        <item>Kimberley</item>
+        <item>Modder River</item>
+    </string-array>
+
+    <string-array name="Western_Cape">
+        <item>Choose a city</item>
+        <item>Atlantis</item>
+        <item>Bellville</item>
+        <item>Blue Downs</item>
+        <item>Brackenfell</item>
+        <item>Cape Town</item>
+        <item>Crossroads</item>
+        <item>Guguletu</item>
+        <item>Khayelitsha</item>
+    </string-array>
+</resources>
+
+
+
+
+
